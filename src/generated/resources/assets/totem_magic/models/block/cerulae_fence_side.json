@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "totem_magic:block/cerulae_planks"
+  }
+}

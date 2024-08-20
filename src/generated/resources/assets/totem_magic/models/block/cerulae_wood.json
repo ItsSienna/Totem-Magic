@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "totem_magic:block/cerulae_log",
+    "side": "totem_magic:block/cerulae_log"
+  }
+}

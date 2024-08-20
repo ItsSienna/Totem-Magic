@@ -1,0 +1,8 @@
+// 1.21	2024-08-19T18:01:36.3630949	Registries
+a0065ce9faedd6defe5eed861987ee29f9d38ab4 data/totem_magic/neoforge/biome_modifier/add_cerulae_tree.json
+603946176fc4965013ac9b514be44c366118958d data/totem_magic/neoforge/biome_modifier/add_crimtae_tree.json
+5a73ec0d5cf4e150dea19ce8e49be1a50084fc4d data/totem_magic/worldgen/biome/sacred_grove.json
+8400bf432a9932199863085e3818f727367a3748 data/totem_magic/worldgen/configured_feature/cerulae_tree.json
+09c53c0af04bcf65b713b05e441f97885a060afe data/totem_magic/worldgen/configured_feature/crimtae_tree.json
+0d309659ddbff82f2cfcd3aac9dda49837466d68 data/totem_magic/worldgen/placed_feature/cerulae_placed_tree.json
+2663970e4f2726c5c046aae50c0b4fc6d314214a data/totem_magic/worldgen/placed_feature/crimtae_placed_tree.json

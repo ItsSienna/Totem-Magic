@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "totem_magic:block/cerulae_pressure_plate"
+    },
+    "powered=true": {
+      "model": "totem_magic:block/cerulae_pressure_plate_down"
+    }
+  }
+}

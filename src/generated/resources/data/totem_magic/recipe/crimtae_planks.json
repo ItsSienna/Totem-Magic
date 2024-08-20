@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "totem_magic:crimtae_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "totem_magic:crimtae_planks"
+  }
+}

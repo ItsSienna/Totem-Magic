@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cerulae_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "totem_magic:cerulae_log"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "totem_magic:cerulae_totem"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cerulae_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "totem_magic:cerulae_totem"
+    ]
+  }
+}

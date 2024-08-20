@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "totem_magic:essence_fountain",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 823574,
+    "spacing": 32,
+    "separation": 16,
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#totem_magic:is_sacred_grove",
+  "features": "totem_magic:crimtae_placed_tree",
+  "step": "vegetal_decoration"
+}

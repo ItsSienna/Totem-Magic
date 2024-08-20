@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "totem_magic:block/cerulae_totem",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "totem_magic:block/cerulae_totem"
+    },
+    "facing=south": {
+      "model": "totem_magic:block/cerulae_totem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "totem_magic:block/cerulae_totem",
+      "y": 270
+    }
+  }
+}

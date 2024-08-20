@@ -1,0 +1,5 @@
+// 1.21	2024-08-19T18:01:36.3620947	Tags for minecraft:block mod id totem_magic
+442c2dd7fc87c76240b045152c2bcf52fa681c7e data/minecraft/tags/block/fences.json
+b993cb431f1f01f740a3946ef1e8f51c8e3e1e5a data/minecraft/tags/block/fence_gates.json
+5963179e470bedb36d046553ad9e5d77de7f66f2 data/minecraft/tags/block/logs_that_burn.json
+bf84f68f9ecd0c09c00a60f566bf60b94d23f685 data/minecraft/tags/block/planks.json

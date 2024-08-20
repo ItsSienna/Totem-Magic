@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "totem_magic:block/cerulae_planks",
+    "side": "totem_magic:block/cerulae_planks",
+    "top": "totem_magic:block/cerulae_planks"
+  }
+}

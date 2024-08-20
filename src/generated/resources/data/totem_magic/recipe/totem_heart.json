@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "W": {
+      "item": "totem_magic:crimtae_planks"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "WNW",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "totem_magic:totem_heart"
+  }
+}

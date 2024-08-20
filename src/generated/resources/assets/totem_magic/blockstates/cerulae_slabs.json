@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "totem_magic:block/cerulae_slabs"
+    },
+    "type=double": {
+      "model": "totem_magic:block/cerulae_planks"
+    },
+    "type=top": {
+      "model": "totem_magic:block/cerulae_slabs_top"
+    }
+  }
+}

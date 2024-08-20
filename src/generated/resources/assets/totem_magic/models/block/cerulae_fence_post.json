@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "totem_magic:block/cerulae_planks"
+  }
+}

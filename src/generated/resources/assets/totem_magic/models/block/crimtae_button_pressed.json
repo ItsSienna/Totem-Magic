@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "totem_magic:block/crimtae_planks"
+  }
+}

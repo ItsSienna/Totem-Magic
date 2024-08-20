@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "totem_magic:block/cerulae_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "totem_magic:block/cerulae_wood"
+    },
+    "axis=z": {
+      "model": "totem_magic:block/cerulae_wood_horizontal",
+      "x": 90
+    }
+  }
+}
