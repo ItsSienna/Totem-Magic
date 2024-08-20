@@ -61,8 +61,8 @@ public class BaseFluidType extends FluidType {
             public void modifyFogRender(Camera camera, FogRenderer.FogMode mode, float renderDistance, float partialTick,
                                         float nearDistance, float farDistance, FogShape shape) {
                 RenderSystem.setShaderFogStart(1f);
-                RenderSystem.setShaderFogEnd(2f); // You can change the fog renderer here. For example, setting where the shader starts and ends.
-                //There are other things you can do too, but this is technically a base!
+                RenderSystem.setShaderFogEnd(2f);
+
             }
         };
     }
